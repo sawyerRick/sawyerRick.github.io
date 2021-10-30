@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: serial
 description: Nothing is true, everthing is permitted.
-show_downloads: false
+show_downloads: true
