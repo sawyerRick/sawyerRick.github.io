@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Nothing's here
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Serial
 language: en
 timezone: ''
 
@@ -102,4 +102,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/sawyerRick/sawyerrick.github.io
+  branch: gh-pages
