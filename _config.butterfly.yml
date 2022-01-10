@@ -131,8 +131,8 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /images/terno.gif 
-  post_page: /images/terno.gif
+  flink: /images/tenor.gif
+  post_page: /images/tenor.gif
 
 # A simple 404 page
 error_404:
