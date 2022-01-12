@@ -8,11 +8,11 @@ tags: Docker
 
 ## 1. RUN
 
-The RUN directive can appear multiple times in Dockerfile, and The Run directive only works in build stage.
+The RUN directive can appear multiple times in Dockerfile, and it only works in build stage.
 
 ## 2. CMD and ENTRYPOINT
 
-CMD is similar to ENTRYPOINT, they will work when the container starts. 
+CMD is similar to ENTRYPOINT, they both work when the container starts. 
 
 But it's quite diffenent.
 
