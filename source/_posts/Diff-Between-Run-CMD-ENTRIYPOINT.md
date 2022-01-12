@@ -1,5 +1,5 @@
 ---
-title: Diff-Between-Run-CMD-ENTRIYPOINT
+title: Diffenence between RUN, CMD and ENTRYPOINT in Dockerfile
 date: 2022-01-12 22:03:27
 tags: Docker
 ---
