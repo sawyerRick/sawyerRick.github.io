@@ -1,5 +1,5 @@
 ---
-title: pull-vs-pull-in-IM-implementation
+title: PUSH vs PULL in IM-implementation
 date: 2022-01-14 21:02:03
 tags: IM
 ---
