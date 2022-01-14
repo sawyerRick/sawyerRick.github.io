@@ -77,7 +77,7 @@ tags: introspection
 - 《爱，死亡和机器人 第二季》，经典，不必多说
 - 《X特遣队：全员集结 The Suicide Squad》，顶级恶搞
 
-- 《La La Land》，感同身受
+- 《La La Land》
 
 #### 耻辱柱
 
