@@ -1,7 +1,7 @@
 ---
 title: 2021-introspection
 date: 2022-01-08 23:20:23
-tags: introspection
+tags: Introspection
 ---
 
 # 2021年终总结
