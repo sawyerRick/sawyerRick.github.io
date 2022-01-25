@@ -16,6 +16,7 @@ menu:
   #   Movie: /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
    About: /about/ || fas fa-heart
+   Introspection: /Introspection/ || fas fa-archive
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
