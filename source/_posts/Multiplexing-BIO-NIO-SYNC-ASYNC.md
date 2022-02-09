@@ -26,8 +26,6 @@ tags: Network
 - poll
 - epoll (Linux) / kqueue (FreeBSD)
 
-
-
 ## BIO vs. NIO
 
 BIO和NIO的概念与线程无关。
@@ -50,6 +48,8 @@ Java API中的NIO是面向ByteBuffer的，读写操作都只是复制Buffer，�
 
 同步和异步的概念与线程有关。
 
+> Notice：同步或异步只是一种编程风格，不会影响系统性能
+
 ### 同步Sync
 
 普通的代码，从上往下执行，就是同步的。
@@ -59,6 +59,26 @@ Java API中的NIO是面向ByteBuffer的，读写操作都只是复制Buffer，�
 异步的代码是无序的，通常和事件event、回调callback绑定。
 
 当出现异步时，其背后一定有一个线程来完成异步操作。
+
+## 任务类型
+
+### IO-Intensive/Data-Intensive/IO bound/数据密集型
+
+数据密集型的任务，比如大多数的Web应用、中间件（MQ）、存储（MySQL、Redis）和大数据框架（Spark）。
+
+由于硬件驱动（网卡、磁盘驱动）是串行的（硬件没有线程的概念），开再多线程一起执行IO操作不会提升速度，这就是为什么Redis只需要一个线程但是仍然提供50K TPS的原因（Redis属于数据密集型应用，性能瓶颈在于IO速度，大部分的计算时间复杂度为O(1)、O(LogN)，不会占用太多CPU）。
+
+###### Point of view for IO-Intensive task
+
+对于数据密集型任务，合理地使用Non-Blocking IO的情况下，一个线程就足够。
+
+### Compute-Intensive/Cpu bound/计算密集型
+
+计算密集型的任务，比如压缩算法、加密算法、挖矿算法（Hash计算）、AI/机器学习（GPU浮点计算）。
+
+###### Point of view for Compute-Intensive task
+
+对于计算密集型任务，最多开Cpu逻辑核心数个线程，再多的线程反而会降低性能（上下文切换代价）。
 
 ## Netty
 
