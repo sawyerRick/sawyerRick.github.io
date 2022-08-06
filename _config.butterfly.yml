@@ -81,11 +81,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/morty.jpg
+favicon: /images/avt.png
 
 # Avatar (頭像)
 avatar:
-  img: /images/morty.jpg 
+  img: /images/avt.png 
   effect: false
 
 # Disable all banner image
