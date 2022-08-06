@@ -5,7 +5,7 @@ tags: Docker
 cover: /images/Moby-logo.png
 ---
 
-# Diffenence between RUN, CMD and ENTRYPOINT in Dockerfile
+# Diffenences between RUN, CMD and ENTRYPOINT in Dockerfile
 
 ## 1. RUN
 
