@@ -624,7 +624,9 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - No matter what you choose&#44; you&apos;re finally gonna chill the fuck out.
+	- Got MKB But Still Miss You.
+    #- No matter what you choose&#44; you&apos;re finally gonna chill the fuck out.
+
 
 # Loading Animation (加載動畫)
 preloader: false
