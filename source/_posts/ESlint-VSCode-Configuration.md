@@ -1,0 +1,30 @@
+---
+title: ESlint + VSCode Configuration
+date: 2022-09-10 23:23:28
+tags: Frontend
+---
+
+# ESlint + VSCode Configuration
+
+Requirement: I want whenever I press `Command + S`, ESLint wil do an all-fix in current file automatically.
+
+Here is a tooling list just for that requirement.
+
+## VSCode Plugins
+
+- ESLint
+
+## NPM Dependencies
+
+`$ npm init @eslint/config`
+
+## VSCode Configurations
+
+All you need to do is to add only one line to `settings.json`
+
+```json
+"editor.codeActionsOnSave": {
+  "source.fixAll": true
+}
+```
+
