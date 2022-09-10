@@ -40,5 +40,5 @@ Notes of fancy Frontend toolings.
 
 ## Deploy
 
-- Vecel
+- Vercel
 

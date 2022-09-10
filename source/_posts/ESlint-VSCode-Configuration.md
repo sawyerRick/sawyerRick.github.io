@@ -6,7 +6,7 @@ tags: Frontend
 
 # ESlint + VSCode Configuration
 
-Requirement: I want whenever I press `Command + S`, ESLint wil do an all-fix in current file automatically.
+Requirement: I want whenever I press `Command + S` ESLint will do an all-fix in current file automatically.
 
 Here is a tooling list just for that requirement.
 
