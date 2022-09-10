@@ -8,7 +8,7 @@ tags: Frontend
 
 [toc]
 
-Notes of fancy Front-End toolings.
+Notes of fancy Frontend toolings.
 
 ## Dev
 
