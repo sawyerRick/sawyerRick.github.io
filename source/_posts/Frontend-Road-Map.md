@@ -10,6 +10,10 @@ tags: Frontend
 
 Notes of fancy Frontend toolings.
 
+## IDE
+
+- Visual Studio Code
+
 ## Dev
 
 ### CSS Framework
@@ -19,6 +23,16 @@ Notes of fancy Frontend toolings.
 ### JavaScript Framework
 
 - React
+
+### Package Manager
+
+- npm
+- pnpm
+- yarn
+
+### Coding Style
+
+- Eslint
 
 ## Build
 
