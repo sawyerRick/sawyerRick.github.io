@@ -14,9 +14,9 @@ Here is a tooling list just for that requirement.
 
 - ESLint
 
-## NPM Dependencies
+## Npm Dependencies
 
-`$ npm init @eslint/config`
+- npm init @eslint/config
 
 ## VSCode Configurations
 
@@ -28,3 +28,8 @@ All you need to do is to add only one line to `settings.json`
 }
 ```
 
+## Ending
+
+Have you set up toolings mentioned above, ESLint wil do an all-fix in current file automatically when you press `Command + S`.
+
+That's it, simple as that.
