@@ -60,15 +60,18 @@ module.exports = {
     'react'
   ],
   rules: {
-    'react/prop-types': 0
+    indent: ['error', 2],
+    'react/prop-types': 'off',
+    'react/react-in-jsx-scope': 'off'
   }
 }
+
 ```
 
 
 
 ## Ending
 
-Once you set up toolings mentioned above, ESLint wil do an all-fix in current file automatically when you press `Command + S`.
+Once you've set up these toolings mentioned above, ESLint wil do an all-fix in current file automatically when you press `Command + S`.
 
 That's it, simple as that.
