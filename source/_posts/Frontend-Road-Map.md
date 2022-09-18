@@ -34,9 +34,19 @@ Notes of fancy Frontend toolings.
 
 - Eslint
 
+### Frontend Routing
+
+- React Router
+- The default router of Next.js（Recommended）
+
 ## Build
 
 - Vite
+
+### Frameworks for the future of Frontend
+
+- Next.js（Recommended）
+- Remix
 
 ## Deploy
 
