@@ -1,12 +1,10 @@
 ---
-title: AddingImgsToHexoBlogByTyporaTheSimpleWay
+title: Adding Images To A Hexo Blog By Typora The SimpleWay
 date: 2022-09-29 02:16:47
 tags: Misc
 cover: topTodos.jpeg
 typora-root-url: AddingImgToHexoBlogByTyporaTheSimpleWay
 ---
-
-# Adding Imgs To Hexo Blog By Typora The SimpleWay
 
 Only 2 steps will do the job.
 
