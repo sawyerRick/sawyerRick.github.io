@@ -10,7 +10,7 @@ Only 2 steps will do the job.
 
 ## step1
 
-Go to your hexo root directory, edit `_config.yml`.
+Go to your hexo root directory, and add the line below to `_config.yml`.
 
 ```
 post_asset_folder: true
@@ -30,9 +30,7 @@ typora-root-url: fooBlog
 
 ## sample
 
-Say I have a img named topTodos.jpeg in [fooBlog] directory mentioned above.
-
-Img inserting markdown code be like:`![](topTodos.jpeg)`
+Say I have a img named topTodos.jpeg in [fooBlog] directory mentioned above, then my image inserting markdown code will be like:`![](topTodos.jpeg)`
 
 Result:
 
