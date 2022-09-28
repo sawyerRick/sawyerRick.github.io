@@ -15,9 +15,9 @@ The RUN directive can appear multiple times in Dockerfile, and it only works in 
 
 CMD is similar to ENTRYPOINT, they both work when the container starts. 
 
-But it's quite diffenent.
+But they're quite diffenent.
 
-Let's illustrate its diffenences in this form.
+Let's illustrate their diffenences in this form.
 
 |                                | No ENTRYPOINT              | ENTRYPOINT exec_entry p1_entry | ENTRYPOINT [“exec_entry”, “p1_entry”]          |
 | :----------------------------- | :------------------------- | :----------------------------- | :--------------------------------------------- |
