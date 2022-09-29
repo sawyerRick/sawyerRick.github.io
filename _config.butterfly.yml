@@ -43,8 +43,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
+  #  fab fa-github: https://github.com/xxxxx || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+	fab fa-twitter: https://twitter.com/windbelike || Twitter
 
 # search (搜索)
 # --------------------------------------
