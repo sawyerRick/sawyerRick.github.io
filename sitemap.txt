@@ -21,14 +21,14 @@ https://serialrick.top/2022/01/08/Docker-Compose/
 https://serialrick.top/Introspection/Wondering.html
 https://serialrick.top/Introspection/index.html
 https://serialrick.top/
-https://serialrick.top/tags/Misc/
 https://serialrick.top/tags/Introspection-2021/
+https://serialrick.top/tags/Misc/
 https://serialrick.top/tags/Docker/
 https://serialrick.top/tags/Frontend/
-https://serialrick.top/tags/Java/
 https://serialrick.top/tags/DOTA2/
+https://serialrick.top/tags/Java/
 https://serialrick.top/tags/Network/
-https://serialrick.top/tags/init-commit/
 https://serialrick.top/tags/IM/
+https://serialrick.top/tags/init-commit/
 https://serialrick.top/tags/tutorial/
 https://serialrick.top/categories/init-commit/
