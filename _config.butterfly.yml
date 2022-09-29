@@ -181,7 +181,7 @@ toc:
   style_simple: true
 
 post_copyright:
-  enable: true
+  enable: false 
   decode: false
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -412,7 +412,7 @@ footer:
     enable: serial 
     since: 2022
   custom_text: 
-  copyright: true # Copyright of theme and framework
+  copyright: false # Copyright of theme and framework
 
 # Analysis
 # --------------------------------------
