@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://serialrick.top/2022/01/04/%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E5%86%99%E4%BD%9C%E7%8E%AF%E5%A2%83/</loc>
+    <loc>https://serialrick.top/2022/01/14/push-vs-pull-in-IM-implementation/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://serialrick.top/2022/01/14/push-vs-pull-in-IM-implementation/</loc>
+    <loc>https://serialrick.top/2022/01/04/%E6%89%93%E9%80%A0%E9%AB%98%E6%95%88%E5%86%99%E4%BD%9C%E7%8E%AF%E5%A2%83/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://serialrick.top/2022/01/08/Java-JVM/</loc>
+    <loc>https://serialrick.top/2022/01/08/Java-Concurrent/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://serialrick.top/2022/01/08/Java-Concurrent/</loc>
+    <loc>https://serialrick.top/2022/01/08/Java-JVM/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -209,14 +209,14 @@
 
   
   <url>
-    <loc>https://serialrick.top/tags/Introspection-2021/</loc>
+    <loc>https://serialrick.top/tags/Misc/</loc>
     <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://serialrick.top/tags/Misc/</loc>
+    <loc>https://serialrick.top/tags/Introspection-2021/</loc>
     <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -265,14 +265,14 @@
   </url>
   
   <url>
-    <loc>https://serialrick.top/tags/tutorial/</loc>
+    <loc>https://serialrick.top/tags/IM/</loc>
     <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://serialrick.top/tags/IM/</loc>
+    <loc>https://serialrick.top/tags/tutorial/</loc>
     <lastmod>2022-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
