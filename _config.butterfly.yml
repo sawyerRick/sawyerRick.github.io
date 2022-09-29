@@ -26,8 +26,8 @@ hide_sidebar_menu_child: false
 
 highlight_theme: mac light #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
-highlight_lang: false # show the code language
-highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
+highlight_lang: true # show the code language
+highlight_shrink: none # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_height_limit: false # unit: px
 code_word_wrap: false
 
@@ -313,8 +313,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: NtnS7AqCONxYANYnQZR7VymL-MdYXbMMI # leancloud application app id
-  appKey: Od9lqhZuSThU7AilwYrN4UH7 # leancloud application app key
+  appId: # leancloud application app id
+  appKey: # leancloud application app key
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   lang: en # i18n: zh-CN/zh-TW/en/ja
@@ -522,7 +522,7 @@ enter_transitions: true
 # canvas_ribbon (靜止彩帶背景)
 # See: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
-  enable: true
+  enable: false 
   size: 150
   alpha: 0.6
   zIndex: -1
