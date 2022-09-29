@@ -13,5 +13,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://serialrick.top/sitemap.xml
+Sitemap: https://www.serialrick.top/sitemap.xml
 
