@@ -105,3 +105,7 @@ deploy:
   type: git
   repo: https://github.com/sawyerRick/sawyerrick.github.io
   branch: gh-pages
+
+# sitemap
+sitemap:
+  path: sitemap.xml
