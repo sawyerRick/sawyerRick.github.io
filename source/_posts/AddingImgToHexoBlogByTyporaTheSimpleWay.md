@@ -6,7 +6,7 @@ cover: topTodos.jpeg
 typora-root-url: AddingImgToHexoBlogByTyporaTheSimpleWay
 ---
 
-Only 2 steps will do the job.
+Only 2 steps will do the trick.
 
 ## step1
 
