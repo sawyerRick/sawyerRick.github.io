@@ -48,7 +48,7 @@ Notes of fancy Frontend toolings.
 - Next.js（Recommended）
 - Remix
 
-## ServerLess
+## Serverless Service
 
 - LeanCloud
 
