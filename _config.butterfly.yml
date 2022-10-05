@@ -82,11 +82,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/avt.png
+favicon: /images/GriefArt.jpeg
 
 # Avatar (頭像)
 avatar:
-  img: /images/avt.png 
+  img: /images/GriefArt.jpeg 
   effect: false
 
 # Disable all banner image
