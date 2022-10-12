@@ -177,7 +177,7 @@ Love is about giving unconditionally.
 
 ## Communication Without Violence
 
-1. State the fact. ( **Caution: distinguish fact and opinion** )
+1. State the fact. ( **Caution: distinguish the fact and the opinion** )
 2. Express your feeling.
 3. Say the requirements.
 
