@@ -1,7 +1,6 @@
 ---
 title: Introspection
 date: 2022-01-26 00:10:57
-
 ---
 
 ## 人生的意义
@@ -154,7 +153,7 @@ Fun fact：真正达成目标时，我没有感到非常满足，没有感到非
 
 ## 习惯 Habits
 
-Formula to build a irresistible habit the ez way ( from Atomic Habbits ):
+Habits cycle  ( from Atomic Habbits ):
 
 1. Cue, a phone buzzes.
 2. Crave, want to learn the contents of the message.
@@ -165,6 +164,10 @@ Key mindsets to build and preserve a habit:
 
 1. It's about building personalities, neither making perfections nor getting destination.
 2. It's about the frequency you repeat the habit. Never miss it twice.
+
+Formula to build a irresistible habit the ez way:
+
+...
 
 ## LOVING
 
