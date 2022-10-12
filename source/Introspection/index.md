@@ -28,9 +28,9 @@ date: 2022-01-26 00:10:57
 
 事物有三种：
 
-1. 完全能控制的事物（Belong to present）
-2. 能控制一点，但不完全能控制的事物（Belong to future）
-3. 完全不能控制的事物（Belong to past，cuz the Time Machine haven't been invented yet, lol.）
+1. 完全能控制的事物（Like present）
+2. 能控制一点，但不完全能控制的事物（Like future）
+3. 完全不能控制的事物（Like past，cuz the Time Machine haven't been invented yet, lol.）
 
 属于3类型的事物是不值得去做的，所以人应该关注1和2类型的事物。
 
@@ -40,9 +40,9 @@ Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we ca
 
 ## 过去 Past & 时光机 Time Machine & 后悔 Regrets
 
-当人谈起时光机的时候，可能他在谈的是后悔。
-
 当人总谈起过去，可能是认为现在不够好。
+
+当人谈起时光机的时候，可能他在谈的是后悔。
 
 ## 欲望Desire
 
