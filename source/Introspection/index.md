@@ -154,23 +154,29 @@ Fun fact：真正达成目标时，我没有感到非常满足，没有感到非
 
 ## 习惯 Habits
 
-构建习惯的公式( from Atomic Habbits ):
+Formula to build a irresistible habit the ez way ( from Atomic Habbits ):
 
 1. Cue, a phone buzzes.
 2. Crave, want to learn the contents of the message.
 3. Response, grab my phone.
 4. Reward, satisfied with the craving for reading the message.
 
-保持习惯的关键态度:
+Key mindsets to build and preserve a habit:
 
-1. It's about building personalities, not perfections.
-2. It's about the frequency, not the quality.
+1. It's about building personalities, neither making perfections nor getting destination.
+2. It's about the frequency you repeat the habit. Never miss it twice.
 
 ## LOVING
 
 It's better to give than receive.
 
 Love is about giving unconditionally.
+
+## Communication Without Violence
+
+1. State the fact. ( **Caution: distinguish fact and opinion** )
+2. Express your feeling.
+3. Say the requirements.
 
 ## 人群 CROWD
 
