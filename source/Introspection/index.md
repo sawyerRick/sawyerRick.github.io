@@ -22,19 +22,27 @@ date: 2022-01-26 00:10:57
 
 但是面对表扬和批评，出于对他人的关心，人应该假装表现出接受，**这一点很重要**，否则对方可能会认为受到蔑视和侮辱。
 
-## 事物
+## 事物——现在&过去&未来
 
 > 没有意义的事情，是不值得去做的。
 
 事物有三种：
 
-1. 完全能控制的事物
-2. 能控制一点，但不完全能控制的事物
-3. 完全不能控制的事物
+1. 完全能控制的事物（Belong to present）
+2. 能控制一点，但不完全能控制的事物（Belong to future）
+3. 完全不能控制的事物（Belong to past，cuz the Time Machine haven't been invented yet, lol.）
 
 属于3类型的事物是不值得去做的，所以人应该关注1和2类型的事物。
 
-因为时光机还没被发明出来，过去属于3类型的事物，所以过去是不值得用来耿耿于怀的。
+过去属于3类型的事物，所以过去是不值得用来耿耿于怀的。
+
+Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it **The Present**.
+
+## 过去 Past & 时光机 Time Machine & 后悔 Regrets
+
+当人谈起时光机的时候，可能他在谈的是后悔。
+
+当人总谈起过去，可能是认为现在不够好。
 
 ## 欲望Desire
 
