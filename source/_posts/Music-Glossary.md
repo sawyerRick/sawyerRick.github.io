@@ -41,23 +41,21 @@ typora-root-url: Music-Glossary
 
 5 Lines：GBDFA，Good Boys Do Fine Always.
 
-## Notes
+## Notes & Rests
 
-Note: 音符
+Notes: 音符
 
-
+Rests: 休止符
 
 ### Note Values
 
 Note Values: 音符时值
 
-4&4 time signature 的谱子，quater note value = 1
+4&4 Time Signature 的谱子，quater note value = 1
 
+#### 音符时值表
 
-
-## Rests
-
-Rests: 休止符
+<img src="NoteValueTable.png" alt="Screen Shot 2022-10-22 at 11.26.54 PM" style="zoom:50%;" />
 
 
 
@@ -89,7 +87,7 @@ Measures are the areas between bars lines.
 
 ## Time Signature.
 
-Time Signature: 拍号.
+Time Signature: 拍号
 
  Like 4&4.
 
@@ -129,7 +127,7 @@ It means 2 whole steps + 1 half step + 3 whole steps + 1 half step will allow us
 
 ## Flats & Sharps
 
-Flats和Sharps是黑键的两个名称，分别代表降调和升调。
+Flats和Sharps是一黑键的两个不同名称，分别代表降调和升调。
 
 ## Whole Steps & Half Steps
 
@@ -177,7 +175,7 @@ Chords: 和弦，3个或3个以上的键一起按
 
 - 5音 fifth
 
-### 和弦转位 Inversion
+### 和弦转位 Chords Inversion
 
 root/基础位：1 3 5
 
