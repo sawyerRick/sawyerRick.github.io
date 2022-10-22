@@ -79,7 +79,7 @@ When dot is added to a note or rest, it always increase the value of that note o
 
 Example: half note + dot = 3 beats.
 
-<img src="/Screen%20Shot%202022-10-20%20at%2012.55.44%20AM.png" alt="Screen Shot 2022-10-20 at 12.55.44 AM" style="zoom:33%;" />
+<img src="Screen%20Shot%202022-10-20%20at%2012.55.44%20AM.png" alt="Screen Shot 2022-10-20 at 12.55.44 AM" style="zoom:33%;" />
 
 ## Measures
 
