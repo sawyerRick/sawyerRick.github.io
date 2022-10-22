@@ -97,7 +97,7 @@ The top number shows how many beats are in each measure.
 
 The bottom number shows what note value is equal to one beat.
 
-![Screen Shot 2022-10-16 at 1.42.11 PM](/Screen%20Shot%202022-10-16%20at%201.42.11%20PM.png)
+<img src="/timeSignature.png" alt="timeSignature" style="zoom:33%;" />
 
 Illustrate: 
 
@@ -196,3 +196,5 @@ root/基础位：1 3 5
 ## Metronome
 
 节拍器
+
+tempo：120，表示120拍每分钟
