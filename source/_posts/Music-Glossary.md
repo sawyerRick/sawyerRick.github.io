@@ -13,11 +13,11 @@ typora-root-url: Music-Glossary
 
 ## The Grand Staff 五线谱
 
-![KeyboardFull](KeyboardFull.gif)
-
 ![image4](image4.jpeg)
 
 
+
+![Clef_Diagram](/Clef_Diagram.png)
 
 五线谱上的谱号，有三种：
 
