@@ -17,7 +17,7 @@ typora-root-url: Music-Glossary
 
 
 
-![Clef_Diagram](/Clef_Diagram.png)
+![Clef_Diagram](Clef_Diagram.png)
 
 五线谱上的谱号，有三种：
 
