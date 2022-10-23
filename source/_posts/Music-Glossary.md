@@ -95,7 +95,7 @@ The top number shows how many beats are in each measure.
 
 The bottom number shows what note value is equal to one beat.
 
-<img src="/timeSignature.png" alt="timeSignature" style="zoom:33%;" />
+<img src="timeSignature.png" alt="timeSignature" style="zoom:33%;" />
 
 Illustrate: 
 
