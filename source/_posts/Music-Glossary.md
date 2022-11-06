@@ -167,9 +167,11 @@ Chords: 和弦，3个或3个以上的键一起按
 
 根音和3音之间有2个whole steps的是Major Chord.
 
+根音和3音之间有1个whole step，1个half step的是Minor Chord.
+
 ### 和弦的音
 
-- 根音 root/1
+- 1/根音 root/first
 
 - 3音 third
 
@@ -198,6 +200,10 @@ root/基础位：1 3 5
 1. Sus 4th，4音和5音之间有一个whole step
 2. Sus 2nd，1音和2音之间有一个whole step
 
+#### Csus2 和 Gsus4 的第一转位是一样的
+
+从主调和属调的区别去理解
+
 ### Open 5th Chords
 
 低音Bass部分的和弦弹起来声音比较浑浊，如果只用根音和5音，那么声音会好听很多
@@ -205,6 +211,8 @@ root/基础位：1 3 5
 ## Sustain Padal
 
 延音踏板
+
+切换和弦的时候抬起和踩下
 
 ## Metronome
 
