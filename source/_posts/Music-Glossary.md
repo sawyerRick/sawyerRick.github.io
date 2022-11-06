@@ -51,7 +51,7 @@ Rests: 休止符
 
 Note Values: 音符时值
 
-4&4 Time Signature 的谱子，quater note value = 1
+4&4 Time Signature 的谱子，quarter note value = 1
 
 #### 音符时值表
 
@@ -67,7 +67,7 @@ There's  2 ways to extend a note.
 
 Tie connects two notes together and play as one.
 
-Example: haft note + quater note = 3 beats.
+Example: haft note + quarter note = 3 beats.
 
 <img src="Screen%20Shot%202022-10-20%20at%2012.52.41%20AM.png" alt="Screen Shot 2022-10-20 at 12.52.41 AM" style="zoom:33%;" />
 
@@ -79,7 +79,7 @@ Example: half note + dot = 3 beats.
 
 <img src="Screen%20Shot%202022-10-20%20at%2012.55.44%20AM.png" alt="Screen Shot 2022-10-20 at 12.55.44 AM" style="zoom:33%;" />
 
-## Measures
+## Measures (Bars)
 
 Measure：小节
 
@@ -99,9 +99,9 @@ The bottom number shows what note value is equal to one beat.
 
 Illustrate: 
 
-There are 4 beats in each measure.
+There are 4 beats in each measure. 一个小节有4个拍子。
 
-1 quater note is equal to a single beat.
+Quarter note is equal to a single beat. 4分音符代表一个拍子。
 
 ## Scale
 
@@ -175,17 +175,32 @@ Chords: 和弦，3个或3个以上的键一起按
 
 - 5音 fifth
 
-### 和弦转位 Chords Inversion
+### 和弦转位 Chord Inversion
+
+可以在不大幅度改变手势的情况下快速切换和弦
 
 root/基础位：1 3 5
 
-第一转位：3 5 1
+第一转位：3 5 1，3音在第一个
 
-第二转位：5 1 3
+第二转位：5 1 3，5音在第一个
 
 ### 和弦转位 技巧
 
 两个白键右边的键是根音，左边的键是5音，另外一个键是3音
+
+### 挂留和弦 Suspended Chords
+
+>  Suspended Chords也可以转位，参考"和弦转位"
+
+有两种Suspended Chords：
+
+1. Sus 4th，4音和5音之间有一个whole step
+2. Sus 2nd，1音和2音之间有一个whole step
+
+### Open 5th Chords
+
+低音Bass部分的和弦弹起来声音比较浑浊，如果只用根音和5音，那么声音会好听很多
 
 ## Sustain Padal
 
