@@ -191,14 +191,32 @@ root/基础位：1 3 5
 
 两个白键右边的键是根音，左边的键是5音，另外一个键是3音
 
+### 和弦转位 fingering 手势
+
+相对于普通和弦，手往右移动：第一转位，食指在5音
+
+相对于普通和弦，手往左移动：第二转位，中指在根音
+
 ### 挂留和弦 Suspended Chords
 
 >  Suspended Chords也可以转位，参考"和弦转位"
 
 有两种Suspended Chords：
 
-1. Sus 4th，4音和5音之间有一个whole step
-2. Sus 2nd，1音和2音之间有一个whole step
+1. Sus 4th，4音和5音之间有一个whole step（全音）
+2. Sus 2nd，1音和2音之间有一个whole step（全音）
+
+例子：
+
+Csus4：C E G
+
+Fsus4：F B-Flat C
+
+#### Sus4 Chords转位
+
+第一转位（需要注意4音和5音之间有一个全音）：单独的按键是根音
+
+第二转位：中间的按键是根音（食指）
 
 #### Csus2 和 Gsus4 的第一转位是一样的
 
