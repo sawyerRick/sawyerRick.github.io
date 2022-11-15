@@ -214,13 +214,41 @@ Fsus4：F B-Flat C
 
 #### Sus4 Chords转位
 
-第一转位（需要注意4音和5音之间有一个全音）：单独的按键是根音
+第一转位：最右的键是根音
 
 第二转位：中间的按键是根音（食指）
 
-#### Csus2 和 Gsus4 的第一转位是一样的
+#### Sus2 Chords转位
+
+第一转位：最右的键是根音
+
+第二转位：中间的键是根音（无名指）
+
+#### Csus2 和 Gsus4 的第一转位是一样的，这是为什么???
 
 从主调和属调的区别去理解
+
+### 7th Chords
+
+1. Major 7th Chords
+2. Minor 7th Chords
+3. Dominant 7th Chords
+
+#### 1. Major 7th Chords（C maj）
+
+大调三和弦加上第七音，七音距离5音2个全音。
+
+#### 2. Minor 7th Chords（C - 7/C min7/C m7）
+
+小调三和弦加上第七音，七音距离5音3个半音（1个全音1个半音）。
+
+#### 3. Dominant 7th Chords（C 7）
+
+大调三和弦加上第七音，七音距离5音3个半音（1个全音1个半音）。
+
+### C dim (Diminished)
+
+定义：C大调和弦的基础上，5音减半音，3音减半音。
 
 ### Open 5th Chords
 
@@ -236,4 +264,4 @@ Fsus4：F B-Flat C
 
 节拍器
 
-tempo：120，表示120拍每分钟
+tempo：120bpm（beats per minute）表示120拍每分钟
