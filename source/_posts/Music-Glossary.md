@@ -236,15 +236,35 @@ Fsus4：F B-Flat C
 
 #### 1. Major 7th Chords（C maj）
 
-大调三和弦加上第七音，七音距离5音2个全音。
+大调三和弦加上第七音，7音距离5音2个全音。
+
+**7th = octave - 半音**
 
 #### 2. Minor 7th Chords（C - 7/C min7/C m7）
 
-小调三和弦加上第七音，七音距离5音3个半音（1个全音1个半音）。
+小调三和弦加上第七音，7音距离5音3个半音（1个全音1个半音）。
+
+**7th = octave - 全音**
 
 #### 3. Dominant 7th Chords（C 7）
 
-大调三和弦加上第七音，七音距离5音3个半音（1个全音1个半音）。
+大调三和弦加上第七音，7音距离5音3个半音（1个全音1个半音）。
+
+**7th = octave - 全音**
+
+#### 7th Chords Inversion
+
+Cmaj 和弦转位技巧：7th的键在根音的下一音阶减一个**半音**，所以可以先进行正常三和弦转位，再找7th音。
+
+C7 和弦转位技巧：7th的键在根音的下一音阶减一个**全音**，所以可以先进行正常三和弦转位，再找7th音。
+
+#### 7th Chords Simplify
+
+简化：去掉5音
+
+### Chord Voicing
+
+用不同方式组合和弦（比如：根音在低音，其他音在高音）
 
 ### C dim (Diminished)
 
@@ -253,6 +273,20 @@ Fsus4：F B-Flat C
 ### Open 5th Chords
 
 低音Bass部分的和弦弹起来声音比较浑浊，如果只用根音和5音，那么声音会好听很多
+
+### Slash Chords
+
+Slash Chords让和弦的转换更加流畅（Bass顺序升降）
+
+C/E、C/G
+
+{Chords}/{Bass Note}
+
+Slash Chords可以拆分7th Chords，把7音放到Bass来弹
+
+## octave 八度
+
+1th 5th octave pattern
 
 ## Sustain Padal
 
