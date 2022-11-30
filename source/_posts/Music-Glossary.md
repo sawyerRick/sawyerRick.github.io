@@ -228,6 +228,8 @@ Fsus4：F B-Flat C
 
 从主调和属调的区别去理解
 
+#### Sus2和Sus4作用上的区别？？
+
 ### 7th Chords
 
 1. Major 7th Chords
@@ -278,11 +280,33 @@ C7 和弦转位技巧：7th的键在根音的下一音阶减一个**全音**，�
 
 Slash Chords让和弦的转换更加流畅（Bass顺序升降）
 
-C/E、C/G
+例子：C/E、C/G。C/E AKA C Major Over E
 
 {Chords}/{Bass Note}
 
 Slash Chords可以拆分7th Chords，把7音放到Bass来弹
+
+#### Slash Chords的弹奏技巧
+
+**Chord Tone Slash Chords**
+
+Play Bass with Chord Tone works well
+
+**Non-Chord Tone Slash Chords**
+
+For Major Chords, Play Bass with Major 6（a whole step above the 5th） works well
+
+For Major Chords, Play Bass with Minor 7（a whole step below the root） works well
+
+
+
+For Monor Chords, Play Bass with Minor 6（a half step above the 5th） works well
+
+For Monor Chords, Play Bass with Minor 7（a whole step below the root） works well
+
+**Left Hand Octaves**
+
+用于强化Bass Note（Solo Keyboard or 乐队没有Bass手的时候使用效果最佳）
 
 ## octave 八度
 
