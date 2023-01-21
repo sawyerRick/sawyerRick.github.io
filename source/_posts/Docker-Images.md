@@ -43,11 +43,9 @@ CMD node app.js
 
 ## build images
 
-**制作镜像命令**
+- 制作镜像：`docker build -t myimage .` 指定了Dockerfile在.路径
 
-指定了Dockerfile在.路径
 
-`docker build -t myimage .`
 
 ## 镜像仓库
 
