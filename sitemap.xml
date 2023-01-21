@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.serialrick.top/2022/01/08/Java-JVM/</loc>
+    <loc>https://www.serialrick.top/2022/01/08/Java-Concurrent/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.serialrick.top/2022/01/08/Java-Concurrent/</loc>
+    <loc>https://www.serialrick.top/2022/01/08/Java-JVM/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.serialrick.top/2022/01/08/Docker-Compose/</loc>
+    <loc>https://www.serialrick.top/2022/01/08/Docker-Command/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://www.serialrick.top/2022/01/08/Docker-Command/</loc>
+    <loc>https://www.serialrick.top/2022/01/08/Docker-Compose/</loc>
     
     <lastmod>2022-08-12</lastmod>
     
@@ -255,14 +255,14 @@
   </url>
   
   <url>
-    <loc>https://www.serialrick.top/tags/DOTA2/</loc>
+    <loc>https://www.serialrick.top/tags/Java/</loc>
     <lastmod>2023-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.serialrick.top/tags/Java/</loc>
+    <loc>https://www.serialrick.top/tags/DOTA2/</loc>
     <lastmod>2023-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
